@@ -7,8 +7,7 @@ Solutions for [andgein.ru 2026](https://2026.andgein.ru) programming contest.
 | Task | Description |
 |------|-------------|
 | [lego](lego/) | Count LEGO minifigures in images using Grounding DINO + CLIP ([detailed report](lego/lego.md)) |
-| [eval](eval/) | Generate Python expressions that evaluate to a target number |
-| [uneval](uneval/) | Reverse of eval - find expressions with specific constraints |
+| [uneval](uneval/) | Find expressions with specific constraints |
 | [brainfuck](brainfuck/) | Generate Brainfuck programs that output target strings |
 
 ## Setup
