@@ -1,3 +1,4 @@
+#!/usr/bin/env -S dotnet run
 #:package spaceorc.Z3Wrap@0.0.8
 
 using Spaceorc.Z3Wrap.Core;
